@@ -58,7 +58,7 @@
 76D:\UOC\herr_HTML_CSS\pec1\node_modules\css-tree\cjs\lexer\generic-urange.cjs134076842523372249 0
 54D:\UOC\herr_HTML_CSS\pec1\node_modules\.bin\rimraf.ps1134076822188711275 0
 69D:\UOC\herr_HTML_CSS\pec1\node_modules\es-abstract\2024\TimeString.js134076822240254656 0
-30D:\UOC\herr_HTML_CSS\pec1\dist134076961662734960 1
+30D:\UOC\herr_HTML_CSS\pec1\dist134076964571934771 1
 79D:\UOC\herr_HTML_CSS\pec1\node_modules\stylelint\lib\utils\getSchemeFromUrl.mjs134076842529638230 0
 70D:\UOC\herr_HTML_CSS\pec1\node_modules\es-abstract\2020\CodePointAt.js134076822230579015 0
 38D:\UOC\herr_HTML_CSS\pec1\node_modules134076843444651429 1
@@ -147,7 +147,7 @@
 83D:\UOC\herr_HTML_CSS\pec1\node_modules\css-tree\cjs\syntax\node\SupportsFeature.cjs134076842524559366 0
 86D:\UOC\herr_HTML_CSS\pec1\node_modules\@swc\helpers\_\_object_without_properties_loose134076822209537430 1
 40D:\UOC\herr_HTML_CSS\pec1\src\index.html134076941466469616 0
-40D:\UOC\herr_HTML_CSS\pec1\src\links.html134076950017683698 0
+40D:\UOC\herr_HTML_CSS\pec1\src\links.html134076964336531941 0
 76D:\UOC\herr_HTML_CSS\pec1\node_modules\stylelint\lib\utils\dynamicImport.mjs134076842529167236 0
 60D:\UOC\herr_HTML_CSS\pec1\node_modules\argparse\CHANGELOG.md134076842518339079 0
 73D:\UOC\herr_HTML_CSS\pec1\node_modules\css-tree\lib\syntax\atrule\nest.js134076842526394079 0
@@ -271,7 +271,7 @@
 74D:\UOC\herr_HTML_CSS\pec1\node_modules\normalize-package-data\lib\fixer.js134076822257901788 0
 69D:\UOC\herr_HTML_CSS\pec1\node_modules\es-abstract\2022\DaysInYear.js134076822234751062 0
 61D:\UOC\herr_HTML_CSS\pec1\node_modules\unbox-primitive\.nycrc134076822269027454 0
-55D:\UOC\herr_HTML_CSS\pec1\dist\florencia-1.709b2337.jpg134076961645809055 0
+55D:\UOC\herr_HTML_CSS\pec1\dist\florencia-1.709b2337.jpg134076964555620769 0
 69D:\UOC\herr_HTML_CSS\pec1\node_modules\table\dist\src\wrapWord.js.map134076842523686761 0
 66D:\UOC\herr_HTML_CSS\pec1\node_modules\object-inspect\CHANGELOG.md134076822258608895 0
 74D:\UOC\herr_HTML_CSS\pec1\node_modules\es-abstract\2021\ThrowCompletion.js134076822233770613 0
@@ -940,7 +940,7 @@
 79D:\UOC\herr_HTML_CSS\pec1\node_modules\stylelint\lib\rules\at-rule-allowed-list134076842529880049 1
 84D:\UOC\herr_HTML_CSS\pec1\node_modules\ajv\lib\vocabularies\applicator\properties.ts134076842528756080 0
 56D:\UOC\herr_HTML_CSS\pec1\node_modules\hasown\index.d.ts134076822248802078 0
-48D:\UOC\herr_HTML_CSS\pec1\dist\home.3555ed9a.jpg134076961644307223 0
+48D:\UOC\herr_HTML_CSS\pec1\dist\home.3555ed9a.jpg134076964554243589 0
 60D:\UOC\herr_HTML_CSS\pec1\node_modules\shebang-regex\license134076822265752960 0
 82D:\UOC\herr_HTML_CSS\pec1\node_modules\@parcel\core\lib\requests\PackageRequest.js134076822191064827 0
 45D:\UOC\herr_HTML_CSS\pec1\node_modules\parcel134076822259744230 1
@@ -1023,7 +1023,7 @@
 62D:\UOC\herr_HTML_CSS\pec1\node_modules\async-function\index.js134076822212406906 0
 54D:\UOC\herr_HTML_CSS\pec1\node_modules\nanoid\index.js134076842520598536 0
 82D:\UOC\herr_HTML_CSS\pec1\node_modules\es-object-atoms\RequireObjectCoercible.d.ts134076822244493308 0
-45D:\UOC\herr_HTML_CSS\pec1\dist\categoria.html134076961662680533 0
+45D:\UOC\herr_HTML_CSS\pec1\dist\categoria.html134076964571793995 0
 46D:\UOC\herr_HTML_CSS\pec1\node_modules\globals134076822247682252 1
 76D:\UOC\herr_HTML_CSS\pec1\node_modules\@swc\helpers\esm\_get_prototype_of.js134076822210931491 0
 65D:\UOC\herr_HTML_CSS\pec1\node_modules\which-collection\.eslintrc134076822269727871 0
@@ -3401,7 +3401,7 @@
 78D:\UOC\herr_HTML_CSS\pec1\node_modules\stylelint\lib\rules\selector-id-pattern134076842531639009 1
 57D:\UOC\herr_HTML_CSS\pec1\node_modules\fastq\test\test.js134076842517761168 0
 87D:\UOC\herr_HTML_CSS\pec1\node_modules\rimraf\dist\commonjs\rimraf-move-remove.d.ts.map134076822263688744 0
-48D:\UOC\herr_HTML_CSS\pec1\dist\pec1.bf44c3fb.css134076961662680533 0
+48D:\UOC\herr_HTML_CSS\pec1\dist\pec1.bf44c3fb.css134076964571793995 0
 73D:\UOC\herr_HTML_CSS\pec1\node_modules\stylelint\lib\utils\isVariable.cjs134076842527756286 0
 107D:\UOC\herr_HTML_CSS\pec1\node_modules\stylelint\lib\rules\declaration-block-no-duplicate-custom-properties134076842530248349 1
 83D:\UOC\herr_HTML_CSS\pec1\node_modules\@parcel\workers\src\threads\ThreadsWorker.js134076822204960773 0
@@ -4399,7 +4399,7 @@
 66D:\UOC\herr_HTML_CSS\pec1\node_modules\es-abstract\2020\ToInt32.js134076822231893602 0
 60D:\UOC\herr_HTML_CSS\pec1\node_modules\spdx-correct\index.js134076822266625578 0
 64D:\UOC\herr_HTML_CSS\pec1\node_modules\spdx-correct\package.json134076822266635886 0
-55D:\UOC\herr_HTML_CSS\pec1\dist\florencia-2.60591eb0.jpg134076961661881898 0
+55D:\UOC\herr_HTML_CSS\pec1\dist\florencia-2.60591eb0.jpg134076964571062562 0
 60D:\UOC\herr_HTML_CSS\pec1\node_modules\source-map-js\LICENSE134076842516102525 0
 74D:\UOC\herr_HTML_CSS\pec1\node_modules\caniuse-lite\data\features\http2.js134076822215982144 0
 62D:\UOC\herr_HTML_CSS\pec1\node_modules\source-map-js\README.md134076842520860419 0
@@ -4607,7 +4607,7 @@
 61D:\UOC\herr_HTML_CSS\pec1\node_modules\is-array-buffer\.nycrc134076822249224065 0
 64D:\UOC\herr_HTML_CSS\pec1\node_modules\semver\functions\rsort.js134076822265168965 0
 63D:\UOC\herr_HTML_CSS\pec1\node_modules\math-intrinsics\floor.js134076822255977102 0
-41D:\UOC\herr_HTML_CSS\pec1\dist\index.html134076961662680533 0
+41D:\UOC\herr_HTML_CSS\pec1\dist\index.html134076964571793995 0
 97D:\UOC\herr_HTML_CSS\pec1\node_modules\es-abstract\2022\CreateNonEnumerableDataPropertyOrThrow.js134076822234690638 0
 75D:\UOC\herr_HTML_CSS\pec1\node_modules\path-scurry\dist\commonjs\index.d.ts134076822259973271 0
 76D:\UOC\herr_HTML_CSS\pec1\node_modules\es-abstract\2025\SetFunctionLength.js134076822242328839 0
@@ -5510,7 +5510,7 @@
 61D:\UOC\herr_HTML_CSS\pec1\node_modules\parent-module\index.js134076842516304386 0
 73D:\UOC\herr_HTML_CSS\pec1\node_modules\is-generator-function\CHANGELOG.md134076822250375431 0
 69D:\UOC\herr_HTML_CSS\pec1\node_modules\es-abstract\2022\RegExpExec.js134076822235629249 0
-54D:\UOC\herr_HTML_CSS\pec1\dist\budapest-1.87e6660e.jpg134076961661869903 0
+54D:\UOC\herr_HTML_CSS\pec1\dist\budapest-1.87e6660e.jpg134076964571050684 0
 76D:\UOC\herr_HTML_CSS\pec1\node_modules\ajv\dist\vocabularies\core\ref.js.map134076842526139266 0
 87D:\UOC\herr_HTML_CSS\pec1\node_modules\json-schema-traverse\.github\workflows\build.yml134076842518950857 0
 60D:\UOC\herr_HTML_CSS\pec1\node_modules\parent-module\license134076842516597876 0
@@ -8267,7 +8267,7 @@
 66D:\UOC\herr_HTML_CSS\pec1\node_modules\es-abstract\2023\ToInt32.js134076822238213056 0
 65D:\UOC\herr_HTML_CSS\pec1\node_modules\es-abstract\2023\ToInt8.js134076822238213056 0
 67D:\UOC\herr_HTML_CSS\pec1\node_modules\es-abstract\2023\ToNumber.js134076822238248613 0
-51D:\UOC\herr_HTML_CSS\pec1\dist\viena-1.bcadf1dd.jpg134076961644354241 0
+51D:\UOC\herr_HTML_CSS\pec1\dist\viena-1.bcadf1dd.jpg134076964554305018 0
 79D:\UOC\herr_HTML_CSS\pec1\node_modules\@csstools\selector-specificity\README.md134076842519037922 0
 68D:\UOC\herr_HTML_CSS\pec1\node_modules\es-abstract\2023\ToNumeric.js134076822238258589 0
 75D:\UOC\herr_HTML_CSS\pec1\node_modules\@parcel\bundler-default\package.json134076822189845154 0
@@ -8477,7 +8477,7 @@
 77D:\UOC\herr_HTML_CSS\pec1\node_modules\es-abstract\2021\AdvanceStringIndex.js134076822232265392 0
 93D:\UOC\herr_HTML_CSS\pec1\node_modules\es-abstract\2021\ApplyStringOrNumericBinaryOperator.js134076822232275383 0
 70D:\UOC\herr_HTML_CSS\pec1\node_modules\es-abstract\2021\ArrayCreate.js134076822232287498 0
-55D:\UOC\herr_HTML_CSS\pec1\dist\florencia-4.a0407f88.jpg134076961645809055 0
+55D:\UOC\herr_HTML_CSS\pec1\dist\florencia-4.a0407f88.jpg134076964555631107 0
 66D:\UOC\herr_HTML_CSS\pec1\node_modules\es-abstract\2019\ToInt16.js134076822229892477 0
 85D:\UOC\herr_HTML_CSS\pec1\node_modules\@csstools\selector-specificity\dist\index.d.ts134076842520583231 0
 77D:\UOC\herr_HTML_CSS\pec1\node_modules\es-abstract\2021\AsyncIteratorClose.js134076822232317862 0
@@ -11628,7 +11628,7 @@
 81D:\UOC\herr_HTML_CSS\pec1\node_modules\@parcel\core\test\PublicDependency.test.js134076822191787346 0
 82D:\UOC\herr_HTML_CSS\pec1\node_modules\@parcel\core\test\PublicEnvironment.test.js134076822191797373 0
 89D:\UOC\herr_HTML_CSS\pec1\node_modules\@parcel\core\test\PublicMutableBundleGraph.test.js134076822191797373 0
-40D:\UOC\herr_HTML_CSS\pec1\dist\det2.html134076961662680533 0
+40D:\UOC\herr_HTML_CSS\pec1\dist\det2.html134076964571806754 0
 65D:\UOC\herr_HTML_CSS\pec1\node_modules\@parcel\core\test\requests134076822192362494 1
 78D:\UOC\herr_HTML_CSS\pec1\node_modules\@parcel\core\test\TargetRequest.test.js134076822191837291 0
 70D:\UOC\herr_HTML_CSS\pec1\node_modules\@parcel\core\test\utils.test.js134076822192386113 0
@@ -11943,12 +11943,12 @@
 70D:\UOC\herr_HTML_CSS\pec1\node_modules\.bin\update-browserslist-db.ps1134076822188806542 0
 53D:\UOC\herr_HTML_CSS\pec1\node_modules\.bin\which.cmd134076822188826210 0
 53D:\UOC\herr_HTML_CSS\pec1\node_modules\.bin\which.ps1134076822188836519 0
-54D:\UOC\herr_HTML_CSS\pec1\dist\budapest-2.762cd5f0.jpg134076961644339752 0
-54D:\UOC\herr_HTML_CSS\pec1\dist\budapest-3.8b7753a0.jpg134076961645798673 0
-54D:\UOC\herr_HTML_CSS\pec1\dist\budapest-4.ae7bb1dd.jpg134076961661845520 0
-40D:\UOC\herr_HTML_CSS\pec1\dist\det1.html134076961662680533 0
-51D:\UOC\herr_HTML_CSS\pec1\dist\favicon.ad7fa80e.ico134076961660411250 0
-55D:\UOC\herr_HTML_CSS\pec1\dist\florencia-3.6ac5c3ff.jpg134076961644354241 0
-41D:\UOC\herr_HTML_CSS\pec1\dist\links.html134076961662680533 0
-52D:\UOC\herr_HTML_CSS\pec1\dist\pec1.bf44c3fb.css.map134076961662724823 0
-50D:\UOC\herr_HTML_CSS\pec1\dist\roma-1.3d13ec7e.jpg134076961661845520 0
+54D:\UOC\herr_HTML_CSS\pec1\dist\budapest-2.762cd5f0.jpg134076964554294973 0
+54D:\UOC\herr_HTML_CSS\pec1\dist\budapest-3.8b7753a0.jpg134076964555620769 0
+54D:\UOC\herr_HTML_CSS\pec1\dist\budapest-4.ae7bb1dd.jpg134076964571015710 0
+40D:\UOC\herr_HTML_CSS\pec1\dist\det1.html134076964571806754 0
+51D:\UOC\herr_HTML_CSS\pec1\dist\favicon.ad7fa80e.ico134076964569674285 0
+55D:\UOC\herr_HTML_CSS\pec1\dist\florencia-3.6ac5c3ff.jpg134076964554305018 0
+41D:\UOC\herr_HTML_CSS\pec1\dist\links.html134076964571806754 0
+52D:\UOC\herr_HTML_CSS\pec1\dist\pec1.bf44c3fb.css.map134076964571914820 0
+50D:\UOC\herr_HTML_CSS\pec1\dist\roma-1.3d13ec7e.jpg134076964571015710 0
