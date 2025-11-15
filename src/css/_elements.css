@@ -1,0 +1,8 @@
+/* src/css/elements.css */
+body {
+  font-family: sans-serif;
+}
+
+label {
+  user-select: none;
+}
