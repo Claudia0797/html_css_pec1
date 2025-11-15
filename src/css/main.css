@@ -1,3 +1,3 @@
 /* src/css/main.css */
-@import '_reset';
-@import '_elements';
+@import url('_reset');
+@import url('_elements');
