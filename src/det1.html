@@ -11,22 +11,18 @@
 
 <body>
     <header>
-        <h1>Las vueltas dan mucha vida</h1>
-        <p>Un viaje de descubrimiento, inspiración y nuevas experiencias.</p>
+        <div class="encabezado">
+            <h1>Las vueltas dan mucha vida</h1>
+            <p>Un viaje de descubrimiento, inspiración y nuevas experiencias.</p>
+        </div>
 
-
-        <nav>
+        <nav class="menu-navegacion">
             <ul>
-                <li><a href="index.html">Inicio</a></li>
+                <li><a href="index.html" class="active">Inicio</a></li>
                 <li><a href="categoria.html">Destinos destacados</a></li>
                 <li><a href="#">Sobre nosotros</a></li>
                 <li><a href="links.html">Links</a></li>
             </ul>
-
-            <form>
-                <input type="search" name="buscador" placeholder="Buscar" />
-                <input type="submit" value="" />
-            </form>
         </nav>
     </header>
 
@@ -34,7 +30,9 @@
         <article>
             <h2>Budapest: Un paseo por el Danubio y su historia</h2>
 
-            <img src="assets/img/budapest-1.jpg" alt="Imagen de la ciudad de Budapest">
+            <figure>
+                <img src="assets/img/budapest-1.jpg" alt="Imagen de la ciudad de Budapest">
+            </figure>
 
             <p>
                 Budapest, la capital de Hungría, es una de las ciudades más fascinantes de Europa. Conocida por su
@@ -80,13 +78,13 @@
             </div>
 
             <h3>Más sobre Budapest:</h3>
-            <iframe width="560" height="315" src="https://www.youtube.com/embed/vCxGv5YkdjE?si=zaX9ORnAEnS45omP"
-                title="YouTube video player" frameborder="0"
+            <iframe src="https://www.youtube.com/embed/vCxGv5YkdjE?si=zaX9ORnAEnS45omP" title="YouTube video player"
+                frameborder="0"
                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
                 referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
         </article>
-
+        <!-- 
         <aside>
             <h2>Destinos relacionados</h2>
 
@@ -95,7 +93,7 @@
                 <li><a href="#">Viena</a></li>
                 <li><a href="#">Roma</a></li>
             </ul>
-        </aside>
+        </aside> -->
     </main>
 
 
