@@ -8,6 +8,7 @@
     <title>Mi viaje a Budapest</title>
     <link rel="stylesheet" href="css/styles.css">
 </head>
+<a href="#contenido-principal" class="saltar-navegacion">Saltar al contenido</a>
 
 <body>
     <header>
@@ -26,13 +27,34 @@
         </nav>
     </header>
 
-    <main>
+    <main id="contenido-principal">
         <article>
             <h2>Budapest: Un paseo por el Danubio y su historia</h2>
 
-            <figure>
+            <!-- <figure>
                 <img src="assets/img/budapest-1.jpg" alt="Imagen de la ciudad de Budapest">
-            </figure>
+            </figure> -->
+
+            <div class="imagen-destacada">
+                <!-- Dirección de arte -->
+                <picture>
+                    <!-- Escritorio -->
+                    <source srcset="assets/img-opt-direccion-arte/budapest-1-desktop.avif" media="(min-width: 1024px)"
+                        type="image/avif">
+
+                    <!-- Tablet -->
+                    <source srcset="assets/img-opt-direccion-arte/budapest-1-tablet.avif" media="(min-width: 600px)"
+                        type="image/avif">
+
+                    <!-- Móvil -->
+                    <source srcset="assets/img-opt-direccion-arte/budapest-1-mobile.avif" media="(max-width: 599px)"
+                        type="image/avif">
+
+                    <img src="assets/img-opt-direccion-arte/budapest-1-desktop.jpg"
+                        alt="Imagen destacada de la ciudad de Budapest">
+                </picture>
+            </div>
+
 
             <p>
                 Budapest, la capital de Hungría, es una de las ciudades más fascinantes de Europa. Conocida por su
@@ -72,9 +94,31 @@
 
 
             <div class="contenedor-imagenes">
-                <img src="assets/img/budapest-2.jpg" alt="Imagen de la ciudad de Budapest">
+                <!-- <img src="assets/img/budapest-2.jpg" alt="Imagen de la ciudad de Budapest">
                 <img src="assets/img/budapest-3.jpg" alt="Imagen de la ciudad de Budapest">
-                <img src="assets/img/budapest-4.jpg" alt="Imagen de la ciudad de Budapest">
+                <img src="assets/img/budapest-4.jpg" alt="Imagen de la ciudad de Budapest"> -->
+
+                <img src="assets/img-optimizadas/budapest-2-400.webp" srcset="
+                                    assets/img-optimizadas/budapest-2-400.webp 400w,
+                                    assets/img-optimizadas/budapest-2-800.webp 800w,
+                                    assets/img-optimizadas/budapest-2-1200.webp 1200w"
+                    sizes="(max-width: 600px) 90vw, (max-width: 1024px) 50vw, 400px"
+                    alt="Imagen de la ciudad de Budapest" />
+
+                <img src="assets/img-optimizadas/budapest-3-400.webp" srcset="
+                                                    assets/img-optimizadas/budapest-3-400.webp 400w,
+                                                    assets/img-optimizadas/budapest-3-800.webp 800w,
+                                                    assets/img-optimizadas/budapest-3-1200.webp 1200w"
+                    sizes="(max-width: 600px) 90vw, (max-width: 1024px) 50vw, 400px"
+                    alt="Imagen de la ciudad de Budapest" />
+
+                <img src="assets/img-optimizadas/budapest-2-400.webp" srcset="
+                                                        assets/img-optimizadas/budapest-4-400.webp 400w,
+                                                        assets/img-optimizadas/budapest-4-800.webp 800w,
+                                                        assets/img-optimizadas/budapest-4-1200.webp 1200w"
+                    sizes="(max-width: 600px) 90vw, (max-width: 1024px) 50vw, 400px"
+                    alt="Imagen de la ciudad de Budapest" />
+            </div>
             </div>
 
             <h3>Más sobre Budapest:</h3>

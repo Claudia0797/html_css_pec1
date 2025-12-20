@@ -9,6 +9,8 @@
     <link rel="stylesheet" href="css/styles.css">
 </head>
 
+<a href="#contenido-principal" class="saltar-navegacion">Saltar al contenido</a>
+
 <body>
     <header>
         <div class="encabezado">
@@ -26,13 +28,33 @@
         </nav>
     </header>
 
-    <main>
+    <main id="contenido-principal">
         <article>
             <h2>Florencia: El arte en cada rincón</h2>
 
-            <figure>
+            <!-- <figure>
                 <img src="assets/img/florencia-1.jpg" alt="Imagen de la ciudad de Florencia">
-            </figure>
+            </figure> -->
+
+            <div class="imagen-destacada">
+                <!-- Dirección de arte -->
+                <picture>
+                    <!-- Escritorio -->
+                    <source srcset="assets/img-opt-direccion-arte/florencia-1-desktop.avif" media="(min-width: 1024px)"
+                        type="image/avif">
+
+                    <!-- Tablet -->
+                    <source srcset="assets/img-opt-direccion-arte/florencia-1-tablet.avif" media="(min-width: 600px)"
+                        type="image/avif">
+
+                    <!-- Móvil -->
+                    <source srcset="assets/img-opt-direccion-arte/florencia-1-mobile.avif" media="(max-width: 599px)"
+                        type="image/avif">
+
+                    <img src="assets/img-opt-direccion-arte/florencia-1-desktop.jpg"
+                        alt="Imagen destacada de la ciudad de Florencia">
+                </picture>
+            </div>
 
             <p>
                 Florencia es la cuna del Renacimiento, y uno de los destinos más emblemáticos de Italia. En cada rincón
@@ -68,9 +90,30 @@
 
 
             <div class="contenedor-imagenes">
-                <img src="assets/img/florencia-2.jpg" alt="Imagen de la ciudad de Budapest">
-                <img src="assets/img/florencia-3.jpg" alt="Imagen de la ciudad de Budapest">
-                <img src="assets/img/florencia-4.jpg" alt="Imagen de la ciudad de Budapest">
+                <!-- <img src="assets/img/florencia-2.jpg" alt="Imagen de la ciudad de Florencia">
+                <img src="assets/img/florencia-3.jpg" alt="Imagen de la ciudad de Florencia">
+                <img src="assets/img/florencia-4.jpg" alt="Imagen de la ciudad de Florencia"> -->
+
+                <img src="assets/img-optimizadas/florencia-2-400.webp" srcset="
+                    assets/img-optimizadas/florencia-2-400.webp 400w,
+                    assets/img-optimizadas/florencia-2-800.webp 800w,
+                    assets/img-optimizadas/florencia-2-1200.webp 1200w"
+                    sizes="(max-width: 600px) 90vw, (max-width: 1024px) 50vw, 400px"
+                    alt="Imagen de la ciudad de Florencia" />
+
+                <img src="assets/img-optimizadas/florencia-3-400.webp" srcset="
+                                    assets/img-optimizadas/florencia-3-400.webp 400w,
+                                    assets/img-optimizadas/florencia-3-800.webp 800w,
+                                    assets/img-optimizadas/florencia-3-1200.webp 1200w"
+                    sizes="(max-width: 600px) 90vw, (max-width: 1024px) 50vw, 400px"
+                    alt="Imagen de la ciudad de Florencia" />
+
+                <img src="assets/img-optimizadas/florencia-2-400.webp" srcset="
+                                        assets/img-optimizadas/florencia-4-400.webp 400w,
+                                        assets/img-optimizadas/florencia-4-800.webp 800w,
+                                        assets/img-optimizadas/florencia-4-1200.webp 1200w"
+                    sizes="(max-width: 600px) 90vw, (max-width: 1024px) 50vw, 400px"
+                    alt="Imagen de la ciudad de Florencia" />
             </div>
 
 
